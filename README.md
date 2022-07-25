@@ -1,7 +1,7 @@
 # ServerStatus中文版：   
 
 * ServerStatus中文版是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针~。
-* 在线演示：https://tz.cloudcpp.com    
+* 在线演示：http://tz.allfreewall.com
 
 [![Python Support](https://img.shields.io/badge/python-2.7%2B%20-blue.svg)](https://github.com/cppla/ServerStatus)
 [![C++ Compiler](http://img.shields.io/badge/C++-GNU-blue.svg?style=flat&logo=cplusplus)](https://github.com/cppla/ServerStatus)
